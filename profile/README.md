@@ -8,7 +8,7 @@ Version (`1.21.4`)
 
 ![how to join](sunomc.net)
 
-Join our discord [discord](https://discord.gg/Hx2zgZRV5a).
+Need help ? [Join our discord](https://discord.gg/Hx2zgZRV5a).
 
 ### Our Development Team
 
